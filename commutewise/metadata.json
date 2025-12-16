@@ -1,0 +1,7 @@
+{
+  "name": "CommuteWise",
+  "description": "A smart commuter assistance application for Barangay Tandang Sora, providing real-time routing, community reporting, and terminal information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
